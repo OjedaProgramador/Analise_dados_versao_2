@@ -8,3 +8,4 @@ Hoje (04/09/2025) estou aprendendo a usar excel com o pandas
 
 Hoje (04/09/2025) conclui o vídeo 22 !!!
 Hoje (05/09/2025) fazer os execícios da aula 25
+Hoje (08/09/2025) estou na aula 29. no inicio!!
